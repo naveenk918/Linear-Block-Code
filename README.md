@@ -1,5 +1,5 @@
-## EX-06 Name: NAVEEN K (212223060184)
-# Linear-Block-Code
+# Name: NAVEEN K (212223060184)
+#  EXP N0-6 :Linear-Block-Code
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
