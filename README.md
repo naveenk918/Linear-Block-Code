@@ -5,7 +5,7 @@ Write a simple python program to Generate Matrix, Codeword, Hamming weight, Synd
 # Tools required
 Visual Studio Code
 # Program
-```
+```python
 import numpy as np
 pb = [] # Parity matrix
 Ik = [] # I_K Matrix
